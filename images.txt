@@ -1,2 +1,2 @@
-docker pull elasticsearch:7.17.23
-docker pull kibana:7.17.23
+elasticsearch:7.17.23
+kibana:7.17.23
